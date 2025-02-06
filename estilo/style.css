@@ -16,7 +16,8 @@
 
 html,body{ min-height: 100vh;
 background-color: gray;
-font-family: var(--font1);}
+font-family: var(--font1);
+overflow-x: hidden;}
 
 header{background-color: black;
 color: white;
